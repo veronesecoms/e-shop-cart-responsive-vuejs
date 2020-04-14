@@ -1,0 +1,28 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "name": "MacBook Air Apple Core i5 8GB",
+            "price": "5.000,00",
+            "picture": "https://www.casasbahia-imagens.com.br/Informatica/Notebook/11639797/848607701/macbook-air-apple-core-i5-8gb-128gb-ssd-tela-13-3-macos-sierra-mqd32bz-a-11639797.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Mouse Gamer Razer Deathadder",
+            "price": "220,00",
+            "picture": "https://images1.kabum.com.br/produtos/fotos/49841/49841_1507735187_index_g.jpg"
+        },
+        {
+            "id": 3,
+            "name": "MacBook Air Apple Core i5 8GB",
+            "price": "5.000,00",
+            "picture": "https://www.casasbahia-imagens.com.br/Informatica/Notebook/11639797/848607701/macbook-air-apple-core-i5-8gb-128gb-ssd-tela-13-3-macos-sierra-mqd32bz-a-11639797.jpg"
+        },
+        {
+            "id": 4,
+            "name": "MacBook Air Apple Core i5 8GB",
+            "price": "5.500,00",
+            "picture": "https://www.casasbahia-imagens.com.br/Informatica/Notebook/11639797/848607701/macbook-air-apple-core-i5-8gb-128gb-ssd-tela-13-3-macos-sierra-mqd32bz-a-11639797.jpg"
+        }
+    ]
+}
