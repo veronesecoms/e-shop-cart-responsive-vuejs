@@ -1,4 +1,4 @@
-# :handbag: a cool e-shop cart responsive
+# :shopping_cart: a cool e-shop cart responsive
 This is a cool e-shop cart responsive developed using VueJs. All the components do developed using only semantic HTML, Bootstrap Grid System, SCSS and Javascript.
 
 ## Installing
