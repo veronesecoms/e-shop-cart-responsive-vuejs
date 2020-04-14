@@ -1,4 +1,4 @@
-# :handbag: :convenience_store: a cool e-shop cart responsive
+# :handbag: a cool e-shop cart responsive
 
 ## Installing
 run `npm i` to install the dependencies
