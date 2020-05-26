@@ -19,3 +19,5 @@ run `npm run serve` for a dev server. Navigate to http://localhost:8080. The app
 ![screencapture-localhost-8080-2020-04-13-21_55_57](https://user-images.githubusercontent.com/32598503/79282829-8af42a00-7e8c-11ea-962d-f59f6c562306.png)
 #### Finished checkout
 ![screencapture-localhost-8080-2020-04-13-21_56_35](https://user-images.githubusercontent.com/32598503/79282831-8b8cc080-7e8c-11ea-9918-4254e64355e2.png)
+
+the mock prototype was made available by @owinteractive in a selective process from a frontend developer (:
